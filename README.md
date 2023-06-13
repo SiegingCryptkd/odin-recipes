@@ -1,6 +1,5 @@
 # odin-recipes
-Recipes
-
+Project: Recipes
 Build a website that consists of a main index page with links to a few recipes. This is to build HTML experience.
 
 Skills demonstrated: 
