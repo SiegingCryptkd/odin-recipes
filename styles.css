@@ -1,0 +1,27 @@
+*{
+    line-height:30px;
+}
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    border-style:ridge;
+    border-color:darkorchid;
+    border-width:30px;
+    border-bottom: 0px;
+    border-radius: 20px 20px 45px 45px;
+}
+
+/* List align in the center of page but text to the left! */
+div.parent {
+    text-align: center;
+}
+ul, ol {
+    display:inline-block;
+    text-align: left;
+    font-weight: 600;
+}
+
+.pic {
+    border-radius: 20px 20px 20px 20px;
+    border: solid 5px plum;
+}
