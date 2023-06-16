@@ -59,3 +59,21 @@ ul li,
 .para {
     font-family: Tahoma, Serif, 'Segoe IU';
 }
+
+/* Mangos Page */
+.yay {
+    padding: 3px;
+    margin: 0px;
+    border: 3px goldenrod;
+    border-style: solid;
+    display:inline;
+}
+
+/* Burple-Nurple Page */
+h4.disclaimer {
+    border: 5px red;
+    border-style: solid;
+    padding: 7px;
+    margin: 10px;
+    display: inline-block;
+}
